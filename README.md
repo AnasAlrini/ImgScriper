@@ -1,14 +1,14 @@
 # ImgScriper
 An Imges scriper with some features
 
-##How to use
+## How to use
 download the repo 
 sit the config 
 start TIGUI it a Tkinter gui for app 
-##some Errors 
+## some Errors 
 the app freeze when start download
 
-##Future plans
+## Future plans
 make a Kivy gui 
 offer exe app for windows
 add progress bar
